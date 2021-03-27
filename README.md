@@ -20,3 +20,8 @@ Note: Do you need have a web cam to run the scrip
 ## I want be recognize
 To be recognize by the script, you need to add a picture of you, in the folder `images` and run it
 
+# Things to do
+- [x] Face recognition
+- [] A way to link a face to a username and a password
+- [] Add a interface
+- [x] Hope to all be done at time
